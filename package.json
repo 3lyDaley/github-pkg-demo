@@ -1,5 +1,8 @@
 {
   "name": "github-pkg-demo",
+  "repository": {
+    "url": "git@github.com:3lyDaley/github-pkg-demo.git"
+  },
   
   "version": "1.0.0",
   "description": "",
